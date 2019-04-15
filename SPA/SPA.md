@@ -118,12 +118,12 @@ createNewToDoItem() {
 - 이벤트 리스너 전달 시 react는 onClick, vue는 @click
 
 ## 결론
-개인적으로 문법은 vue가 훨씬 간결하고 가독성이 좋으며, 익숙한 것 같다.
-vue처럼 template에 기반한 앱이 가독성이 좋은 반면, 복잡한 규모의 앱에서는 유지보수의 어려움이 있다고 한다.
-반면 react는 application data의 불변 속성(state)이 처음에는 익숙하지 않아 어렵지만, 복잡한 규모의 앱에서는 더 좋다고 한다.
+개인적으로 문법은 vue가 훨씬 간결하고 가독성이 좋으며, 익숙한 것 같다.  
+vue처럼 template에 기반한 앱이 가독성이 좋은 반면, 복잡한 규모의 앱에서는 유지보수의 어려움이 있다고 한다.  
+반면 react는 application data의 불변 속성(state)이 처음에는 익숙하지 않아 어렵지만, 복잡한 규모의 앱에서는 더 좋다고 한다. 
 
 
 참고 )
-https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd
-https://github.com/sunil-sandhu/vue-todo/blob/master/src/ToDo.vue
-https://github.com/sunil-sandhu/react-todo/blob/master/src/ToDo.js
+https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd  
+https://github.com/sunil-sandhu/vue-todo/blob/master/src/ToDo.vue  
+https://github.com/sunil-sandhu/react-todo/blob/master/src/ToDo.js  

@@ -19,7 +19,7 @@ SPA 핵심은 사용자 경험(UX) 향상에 있으며, 애플리케이션 속�
 - Angular (https://github.com/angular/angular)
 
 ## React VS Vue
-![1](../images/star.png)
+![1](/images/star.png)
 ### 비교
 - React
     - facebook 등 큰 기업의 지원 및 수많은 library
@@ -39,7 +39,7 @@ SPA 핵심은 사용자 경험(UX) 향상에 있으며, 애플리케이션 속�
     - vuex
     - SSR로 nuxt.js를 통한 SEO 지원
 
-![2](../images/structure.png)
+![2](/images/structure.png)
 
 ### 데이터를 바꾸는 방식(Mutating the data)
 - vue

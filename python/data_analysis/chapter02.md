@@ -1,4 +1,5 @@
 # CHAPTER 2. 파이썬 프로그래밍
+[실습 내용](https://github.com/rladnswl30/python-data-analysis)
 ## 파이썬 특징
 - 간결한 코드
 - 풍부한 표준 라이브러리
@@ -122,7 +123,7 @@ def lambda (인수) :
 - [내장 함수 리스트](https://github.com/INVESTAR/StockAnalysisInPython/blob/master/10_Appendix_(Python_Built-in_Functions_and_AES-256_Encryption).pdf)
 
 ## 2.6.1 모듈
-모듈 ?  
+#### 모듈 ?  
 .py 확장자를 갖는 파일 모두를 뜻한다.  
 여러 .py 모듈들을 특정 디렉토리에 모아놓은 것을 패키지라고 부른다.  
 이러한 모듈 또는 패키지를 가리켜 라이브러리 라고 부른다.
@@ -131,7 +132,7 @@ def lambda (인수) :
 - module.\_\_file\_\_ : 모듈의 실제 위치 확인
 - from ~ import   : module or package명 생략 가능
 ```
-from module import package or function
+from module import class or function
 from package import module
 ```
 - import ~ as ~ : 별칭 사용 가능

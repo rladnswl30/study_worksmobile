@@ -52,6 +52,9 @@ Running migrations:
 ### 정규 표현식으로 URL-View 매핑하기
 ![django url regex](images/regex.png)
 
+### 장고 인덱스 페이지
+Application 생성과 URL conf 추가, view 수정, 템플릿 작성 등은 실습
+
 ### 장고 관리자 계정 생성
 ```
 python manage.py createsuperuser
@@ -61,9 +64,6 @@ Password:
 Password (again): 
 Superuser created successfully.
 ```
-
-### 장고 인덱스 페이지
-Application 생성과 URL conf 추가, view 수정, 템플릿 작성 등은 실습
 
 ### 슬랙으로 알림 메시지 보내기
 실습
